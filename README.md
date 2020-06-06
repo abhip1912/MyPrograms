@@ -1,2 +1,2 @@
 # MyPrograms
-Some of the famouse Cryptography Encryption/Decryption algoridhams.
+Some of the famous Cryptography Encryption/Decryption Algorithms.
